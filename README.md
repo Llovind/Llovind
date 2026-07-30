@@ -33,12 +33,7 @@ I am a **Telecommunication Engineering Student** specializing in **network defen
  └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-- 🛡️ **Building [Human Firewall Lite](#-featured-projects)** — a closed-loop phishing simulation & crowdsourced threat reporting platform powered by GoPhish, Flask, SQLite, Next.js, and n8n.
-- 🤖 **Deployed an AI-Assisted SOC Pipeline** — Transformer-based intrusion detection model (**92.69% recall, 97.42% ROC-AUC**) validated on live SSH brute-force traffic.
-- 🔬 **Researching Next-Gen Network Defense** — SDN-based IPS and Cache Pollution Attack mitigation for Named Data Networking (IEEE submission track).
-- 📊 **Building a Telecom KPI Analytics Platform** — ETL pipelines and exploratory ML (clustering, anomaly detection, forecasting) over 90+ real operational KPIs.
-- 📈 **Leadership** — leading Human Capital for a research lab, designing quantitative KPI evaluation frameworks.
-- 🌱 **Currently deepening** — AWS Cloud and Microsoft SC-500.
+
 
 ---
 
